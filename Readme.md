@@ -5,7 +5,7 @@
 Hi there, this is Ayanokoji (or Ayan), A 13 Y.O. Programmer from nowhere
 
 - 🔭 I’m currently working on being **Script Kiddie**
-- :computer: I am working for Hackers
+- :computer: I am working for Hackers too
 - :school: Studying 12 hours a day
 
 ## Where to find me
