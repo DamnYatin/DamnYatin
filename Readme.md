@@ -1,4 +1,4 @@
-<p align="center">  <img src="https://telegra.ph/file/fdf403fd12580fa256dfc.jpg" alt="CharlieTheHack1"/></p>
+<p align="center">  <img src="https://telegra.ph/file/442542df036c37bc5b0e7.jpg" alt="CharlieTheHack1"/></p>
 
 ## Info
 
