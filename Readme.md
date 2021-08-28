@@ -41,3 +41,4 @@ Hi there, this is Ayanokoji (or Ayan), A 13 Y.O. Programmer from nowhere
         <td><img width="420px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-ayanokoji&hide=html&layout=compact&theme=tokyonight" /></td>
     </tr>   
   </table>
+</center>
