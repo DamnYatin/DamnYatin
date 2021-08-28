@@ -18,6 +18,7 @@ Hi there, this is Ayanokoji (or Ayan), A 13 Y.O. Programmer from nowhere
 ## OS & Tools
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
+[![WINDOWS](https://img.shields.io/badge/computer-black?style=for-the-badge&logo=windows&logoColor=white)](https://windows.com)
 
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
