@@ -13,6 +13,7 @@ Hi there, this is Ayanokoji (or Ayan), A 13 Y.O. Programmer from nowhere
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Itz-Ayanokoji)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Itz_Ayanokoji)
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 ## OS & Tools
 
@@ -34,3 +35,4 @@ Hi there, this is Ayanokoji (or Ayan), A 13 Y.O. Programmer from nowhere
 ![stats](https://github-readme-stats.vercel.app/api?username=Itz-Ayanokoji&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Itz-Ayanokoji&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duuliy)](https://github.com/itz-ayanokoji/github-readme-stats)
+align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-ayanokoji&hide=html&layout=compact&theme=tokyonight"
