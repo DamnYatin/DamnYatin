@@ -1,10 +1,10 @@
-<p align="center">  <img src="https://telegra.ph/file/442542df036c37bc5b0e7.jpg" alt="CharlieTheHack1"/></p>
+<p align="center">  <img src="https://telegra.ph/file/fdf403fd12580fa256dfc.jpg" alt="CharlieTheHack1"/></p>
 
 ## Info
 
 Hi there, this is Ayanokoji (or Ayan), A 13 Y.O. Programmer from nowhere
 
-- 🔭 I’m currently working on being **Script Kiddie**
+- 🔭 I’m currently working on being **Programmer**
 - :computer: I am working for Hackers too
 - :school: Studying 12 hours a day
 
