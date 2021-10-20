@@ -30,7 +30,16 @@ Hi there, this is Ayanokoji (or Ayan), A 13 Y.O. Programmer from nowhere
 [![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org)
 [![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
 
-## Stats
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/Itz-Ayanokoji/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/Itz-Ayanokoji/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Itz-Ayanokoji" src="https://github-readme-streak-stats.herokuapp.com/?user=Itz-Ayanokoji&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+
+## Github Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Itz-Ayanokoji&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Itz-Ayanokoji&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
