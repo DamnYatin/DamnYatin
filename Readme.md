@@ -32,12 +32,8 @@ Hi there, this is Ayanokoji (or Ayan), A 13 Y.O. Programmer from nowhere
 
 ## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/Itz-Ayanokoji/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/Itz-Ayanokoji/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Itz-Ayanokoji" src="https://github-readme-streak-stats.herokuapp.com/?user=Itz-Ayanokoji&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Itz-Ayanokoji&theme=radical&hide_border=true)
+</br>
 
 ## Github Stats
 
