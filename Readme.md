@@ -31,9 +31,9 @@ Hi there, this is Ayanokoji (or Ayan), A 13 Y.O. Programmer from nowhere
 [![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
 
 ## 🔥 Streak stats
-
+<p align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Itz-Ayanokoji&theme=radical&hide_border=true)
-</br>
+
 
 ## Github Stats
 
