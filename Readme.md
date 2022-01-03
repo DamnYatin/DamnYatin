@@ -30,9 +30,6 @@ Hi there, this is Ayanokoji (or Ayan), A 13 Y.O. Programmer from nowhere
 [![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org)
 [![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
 
-<h3 align="center">I'm currently vibing to 🎧</h3>
-<p align="center"> <img src="uy87qkgdca1uylekn26hoph5w?si=3cf5b65ccf6e4cfd&cover_image=true&theme=compact" height="300px" alt="spotify"> <img src="https://spotify-recently-played-readme.vercel.app/uy87qkgdca1uylekn26hoph5w?si=3cf5b65ccf6e4cfd" alt="spotify" height="300px"/></p>
-
 ## 🔥 Streak stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Itz-Ayanokoji&theme=radical&hide_border=true)
