@@ -2,7 +2,7 @@
 
 ## Info
 
-Hi there, this is Ayanokoji (or Ayan), A 13 Y.O. Programmer from nowhere
+Hi there, this is Ayanokoji (or Ayan), A 14 Y.O. Programmer from nowhere
 
 - 🔭 I’m currently working on being **Programmer**
 - :computer: I am working for Hackers too
