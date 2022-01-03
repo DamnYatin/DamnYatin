@@ -31,7 +31,7 @@ Hi there, this is Ayanokoji (or Ayan), A 13 Y.O. Programmer from nowhere
 [![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
 
 <h3 align="center">I'm currently vibing to 🎧</h3>
-<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true&theme=compact" height="300px" alt="spotify"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=n0rm1kq3erv1julqyq7evfmgi" alt="spotify" height="300px"/></p>
+<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=uy87qkgdca1uylekn26hoph5w&cover_image=true&theme=compact" height="300px" alt="spotify"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=uy87qkgdca1uylekn26hoph5w" alt="spotify" height="300px"/></p>
 
 ## 🔥 Streak stats
 
