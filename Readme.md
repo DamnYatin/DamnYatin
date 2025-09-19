@@ -1,4 +1,4 @@
-<p align="center">  <img src="[https://telegra.ph/file/fdf403fd12580fa256dfc.jpg](https://cdna.artstation.com/p/assets/images/images/024/538/828/original/pixel-jeff-clipc-s.gif)" alt="Nothing"/></p>
+<p align="center">  <img src="[https://cdna.artstation.com/p/assets/images/images/024/538/828/original/pixel-jeff-clipc-s.gif]" alt="Nothing"/></p>
 
 ## Info
 
@@ -12,7 +12,7 @@ Hi there, this is Yatin, A 16 Y.O. Kid
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/DamnYatin)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DamnYatin)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:yatinmishra911@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yatinmishra911@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/247345265009229835)
 
 ## OS & Tools
