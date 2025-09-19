@@ -1,4 +1,4 @@
-<p align="center">  <img src="[https://cdna.artstation.com/p/assets/images/images/024/538/828/original/pixel-jeff-clipc-s.gif]" alt="Nothing"/></p>
+<p align="center">  <img src="[https://telegra.ph/fdf403fd12580fa256dfc.jpg]" alt="Nothing"/></p>
 
 ## Info
 
