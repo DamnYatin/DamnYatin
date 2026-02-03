@@ -14,8 +14,8 @@ Hi there, this is Yatin, A
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DamnYatin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yatinmishra911@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/247345265009229835)
-[![CodeChef Badge](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=fff&style=flat)](https://www.codechef.com/users/yatinmishra)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=flat)](https://leetcode.com/u/yatinmishra1)
+[![CodeChef Badge](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=fff&style=for-the-badge)](https://www.codechef.com/users/yatinmishra)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge)](https://leetcode.com/u/yatinmishra1)
 
 ## OS & Tools
 
