@@ -2,7 +2,7 @@
 
 ## Info
 
-Hi there, this is Yatin, A
+Hi there, this is Yatin
 
 - 🔭 I’m currently working on being **DSA Problems**
 - 💻: Trying web dev too at the backend
