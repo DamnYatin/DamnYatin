@@ -14,8 +14,6 @@ Hi there, this is Yatin
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DamnYatin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yatinmishra911@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/247345265009229835)
-[![CodeChef Badge](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=fff&style=for-the-badge)](https://www.codechef.com/users/yatinmishra)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge)](https://leetcode.com/u/yatinmishra1)
 
 ## OS & Tools
 
@@ -48,7 +46,6 @@ Hi there, this is Yatin
 ## Github Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=DamnYatin&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=DamnYatin&theme=onedark)](https://github.com/DamnYatin/github-profile-trophy)
 <br>
 
 <center>
